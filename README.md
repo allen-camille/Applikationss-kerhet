@@ -1,2 +1,2 @@
-# Applikationss-kerhet
+# Applikationssäkerhet
 Security assment report
